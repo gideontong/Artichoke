@@ -15,5 +15,3 @@ with open('details-0.json', 'r+') as file:
     for key in data['coupons']:
         print(key)
     """
-
-    #print(data['products'][0]['brandName'])
